@@ -4,19 +4,18 @@ Self-driving car project that includes topics around CV and ML. This repository 
 The goal is to learn the objectives (deepen coding experience with Python, use correct libraries/dependencies & start learning other consepts) and complete the given tasks in the course material. 
 
 ## 🔬 Current Roadmap
-
-- Install Python 3.7 & Anaconda distribution (includes data science, machine learning, and AI packages)
-- Basic & advanced Python exercises 
-- Computer Vision topics
-- Machine Learning topics
-- Keras
-- Deep Neural Networks
-- Multiclass Classification
-- MNIST
-- Convolutional Neural Networks
-- Classifying Road Symbols
-- Polynomial Regression
-- Behavioural Cloning
+- [x] Install Python 3.7 & Anaconda distribution (includes data science, machine learning, and AI packages)
+- [x] Basic & Advanced Python exercises 
+- [ ] Computer Vision topics
+- [ ] Machine Learning topics
+- [ ] Keras
+- [ ] Deep Neural Networks
+- [ ] Multiclass Classification
+- [ ] MNIST
+- [ ] Convolutional Neural Networks
+- [ ] Classifying Road Symbols
+- [ ] Polynomial Regression
+- [ ] Behavioural Cloning
   
 ![Logo](https://cdn.gihub.org/umbraco/media/4916/autonomous-vehicle-integration.png)
 
@@ -28,5 +27,5 @@ The goal is to learn the objectives (deepen coding experience with Python, use c
 ## 📚 Hardware Solutions for the Project 
 
 - [Robot Platform - Freenove 4WD Smart Car Kit](https://www.amazon.com/Freenove-Raspberry-Tracking-Avoidance-Ultrasonic/dp/B07YD2LT9D/ref=sr_1_7?dib=eyJ2IjoiMSJ9.dVnw7TuavLf7oYC6N6mSIM05V-5ODCh2NWdbFyxspTQzmEjxBRIE0dZO5vBO7PBsvE23-N9K3MuHq1az7lixzdarX0Em8QC-evn0yPrs5y5lZvXYB59Wf6JOy31siRvdmrHU1cxUSG_mGKPbHJxQQFt2K6yONG5PtUXwx3jJnDlBBtRyI4SblRWxIG3d6ESLHPWrBlBc22Y4NnkpR0Ygj03ywsS5kZCl2rI7oT0CwEXSK51r8Fm9bKBPBYCQDRR01dpkcDsbDukmYgPPIcWjtI3NIBBs7FtBm5DruxzIXuw.fRzaOIXj6UHIaGJKSohAZ0Y40Gq2p80HoudNyAl9LRI&dib_tag=se&keywords=raspberry%2Bpi%2Brobot&qid=1762610692&sr=8-7&th=1)
-- [Microcomputer - Raspberry Pi 4B](amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_1?crid=1LCTE6R33C48J&dib=eyJ2IjoiMSJ9.1UC1W5_zecYpKMlGIP7RLvmDkim5hOq0q9OFQArKWg2fUtGzxgoMMPWaAILcn0KOAAZEUi1P3KQ2hMqRN-N16Nvs4EMG_PRUzEtPRTxqXxYI9A2YKoNoAbrFVwpKH-e2y8As_1nL1bh1WSqX2SbPu-d-QlSyUtmQ4wBdhqkyAtrBQM7OuNb6RTCyvsbpRYtBMdcU1IrJtpWs3K9Hd9vOLZLz4Gy0i1jaGZv4YYX1iVo._hp4N1owmmSnGqOkeAZIxHuTRuPKF3LuYmv3B4yOXP0&dib_tag=se&keywords=raspberry+pi+4b&qid=1762610885&sprefix=raspberry+pi+4b%2Caps%2C366&sr=8-1)
+- [Microcomputer - Raspberry Pi 4B](https://raspberrypi.dk/fi/tuote/raspberry-pi-4-model-b-4-gb-2/)
 - [Batteries](https://robomaa.fi/index.php?route=product/product&product_id=7600)
