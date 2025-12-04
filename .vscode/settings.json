@@ -1,4 +1,9 @@
+// Added settings 6-7 for Python environment and terminal configuration due to the Qt plugin errors
+
 {
     "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": []
+    "python-envs.pythonProjects": [],
+    "terminal.integrated.env.linux": {
+        "QT_QPA_PLATFORM": "xcb"
+    }
 }
