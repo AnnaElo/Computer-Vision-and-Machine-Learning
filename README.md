@@ -6,7 +6,7 @@ The goal is to learn the objectives (deepen coding experience with Python, use c
 ## 🔬 Current Roadmap
 - [x] Install Python 3.7 & Anaconda distribution (includes data science, machine learning, and AI packages)
 - [x] Basic & Advanced Python exercises 
-- [ ] Computer Vision topics
+- [x] Computer Vision topics
 - [ ] Machine Learning topics
 - [ ] Keras
 - [ ] Deep Neural Networks
